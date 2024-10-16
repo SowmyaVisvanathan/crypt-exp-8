@@ -5,7 +5,7 @@
 ## EX - 8 : Implementation of Data Encryption Standard
 
 ### Aim:
-Implementation of Advanced Encryption Standard
+To implementation of DES Encryption Standard
 
 ### Algorithm
 ```
