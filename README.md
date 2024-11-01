@@ -8,7 +8,7 @@
 To implementation of DES Encryption Standard
 
 ### Algorithm
-```
+
 1. Start.
 2. Input the plaintext (maximum 64 characters).
 3. Initialize the key as key = "DESKEY12".
@@ -18,7 +18,7 @@ To implementation of DES Encryption Standard
 7. Decrypt the ciphertext
 8. Display the decrypted text.
 9. End.
-```
+
 ### Program:
 ```
 #include <stdio.h>
@@ -68,4 +68,4 @@ int main()
 ![image](https://github.com/user-attachments/assets/0cc91a97-276a-45f3-a755-38a359c819df)
 
 ### Result
-Implementation of Data Encryption Standard to encrypt and decrypt was successfull.
+Implementation of Data Encryption Standard to encrypt and decrypt was successful.
